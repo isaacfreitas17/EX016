@@ -16,6 +16,15 @@ main {
     padding: 10px;
     margin: auto;
 }
+h1 {
+    color: #2C3532;
+
+}
+
+h2 {
+    color: #2C3532;
+}
+
 p {
     text-align: justify;
 }
