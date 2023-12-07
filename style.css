@@ -12,12 +12,16 @@ body {
 
 main {
     background-color: #D2E8E3;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px  #886e58cc;
     width: 600px;
     padding: 10px;
     margin: auto;
 }
 h1 {
     color: #2C3532;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgb(23, 29, 27);
 
 }
 
